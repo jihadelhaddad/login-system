@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.item{
+    background-color: rgba(0, 0, 0, 0.936);
+    border: 3px solid #321B15;
+    border-radius: 20px;
+}
+.cont{
+    background-image: url(../img/img1.jpg);
+    background-position: center center;
+    background-size: cover;
+    border-top: 5px solid #321B15;
+    border-bottom: 5px solid #321B15;
+}
